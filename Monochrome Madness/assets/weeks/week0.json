@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Achromatic", "dad", [165, 0, 77]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "week0",
+	"weekName": "White Guy (poggert)",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": true
+}
